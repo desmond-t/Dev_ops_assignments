@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a22eebb-72e1-4c89-a0b6-9bcfbf5d66fa" name="Changes" comment="Assignment One">
-      <change afterPath="$PROJECT_DIR$/.idea/DevOps_Assignments.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/routes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/images/product1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/images/product2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/static/images/product3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/templates/products.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/insert_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-    </list>
+    <list default="true" id="6a22eebb-72e1-4c89-a0b6-9bcfbf5d66fa" name="Changes" comment="Assignment Two" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -120,6 +99,15 @@
       <option name="presentableId" value="Default" />
       <updated>1728512296274</updated>
     </task>
+    <task id="LOCAL-00001" summary="Assignment Two">
+      <option name="closed" value="true" />
+      <created>1728749676515</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728749676515</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -135,6 +123,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Assignment One" />
-    <option name="LAST_COMMIT_MESSAGE" value="Assignment One" />
+    <MESSAGE value="Assignment Two" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignment Two" />
   </component>
 </project>
